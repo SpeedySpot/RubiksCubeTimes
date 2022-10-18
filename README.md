@@ -1,5 +1,5 @@
 # RubiksCubeTimes
-+ **First Validated Solve**
+**First Validated Solve**
 1. 17.55
 2. 41.25
 3. 18.65
